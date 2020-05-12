@@ -1,4 +1,1 @@
-properties([parametres([])])
-node("masterzzzz"){
-    println "hello World"
-}
+println "hello World"
