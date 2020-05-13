@@ -1,1 +1,4 @@
-println "hello World"
+node{
+    stage "Greatings!"
+    println "Hello World"
+}
